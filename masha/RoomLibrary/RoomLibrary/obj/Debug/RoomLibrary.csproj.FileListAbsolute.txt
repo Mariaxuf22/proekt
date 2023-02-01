@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\masha\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\masha\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\student\Desktop\masha\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csprojAssemblyReference.cache
+C:\Users\student\Desktop\masha\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\student\Desktop\masha\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb
